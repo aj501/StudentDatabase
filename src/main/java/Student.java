@@ -1,7 +1,4 @@
-import jdk.swing.interop.SwingInterOpUtils;
 
-import javax.sound.midi.Soundbank;
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 /**
@@ -16,10 +13,6 @@ public class Student {
   private int tuitionBalance = 0;
   private static int defaultCost = 600;
   private static int id = 1000;
-  //static: the value is not specific to an object but something is true for all objects. It belong to the class,
-  //not an instance of object.
-
-  //Need a constructor prompt user to enter student's name and year
 
   /**
    * Student constructor
@@ -33,7 +26,6 @@ public class Student {
     System.out.println("1-Freshmen\n2-Sophmore\n3-Junior\n4-Senior. Enter student seniority level: ");
     this.gradeYear = in.nextInt();
     setStudentID();
-   // System.out.println(firstName + " " + lastName + "\n" + "Grade year: " + gradeYear + "\nStudent ID: " + studentID);
   }
 
 
