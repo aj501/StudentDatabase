@@ -1,0 +1,8 @@
+-classpath '/Users/ajworkspace/Desktop/3081/studentdatabase/build/classes/java/main:/Users/ajworkspace/Desktop/3081/studentdatabase/build/resources/main'
+-d '/Users/ajworkspace/Desktop/3081/studentdatabase/build/docs/javadoc'
+-doctitle 'studentdatabase 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'studentdatabase 1.0-SNAPSHOT API'
+'/Users/ajworkspace/Desktop/3081/studentdatabase/src/main/java/StudentDatabase.java'
+'/Users/ajworkspace/Desktop/3081/studentdatabase/src/main/java/Student.java'

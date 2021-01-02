@@ -8,4 +8,4 @@ A Database Administrator for a university needs to create an application to mana
 - A student can enroll in the following courses: Hist 101, Math 101, Eng 101, Chem 101, CSCI 101
 - Course for each course: USD 600
 - The student should be able to view their balance and pay the tuition
-- To see the status of the student, we should see their name, ID, courses enrolled and balance
+- To see the status of the student, we should see their name, ID, grade year,  courses enrolled and balance
